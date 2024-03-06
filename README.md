@@ -1,4 +1,5 @@
-# Dockerized Full Stack Application Setup with Nginx Proxy
+# ![docker whole compose](https://github.com/DAlsabrook/atlas-softy-pinko-docker/assets/112190470/d9f69307-bd15-4642-a07d-27ab0c8dbdc6)
+Dockerized Full Stack Application Setup with Nginx Proxy
 
 This guide outlines how to set up a full-stack application using Docker containers. We utilize Nginx as a reverse proxy to serve the front-end and route API requests to the back-end. Docker Compose is used to define and run multi-container Docker applications.
 
